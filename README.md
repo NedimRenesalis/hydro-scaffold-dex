@@ -15,7 +15,7 @@ This repository provides a basic scaffold for building a Decentralized Exchange 
 
 ![web-screen-shot](./assets/hydro_dex_scaffold_screenshot.png)
 
-It should take less than 10 minutes to get your DEX running.
+
 
 ## Launching the Scaffold App
 
